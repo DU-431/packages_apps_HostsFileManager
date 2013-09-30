@@ -12,5 +12,6 @@
     <string name="switch1">Switch</string>
     <string name="switch2">Switch</string>
     <string name="default_host_file">Default Host File</string>
+    <string name="message">Flip switch below to enable/disable ads in apps</string>
 
 </resources>
