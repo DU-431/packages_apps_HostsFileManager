@@ -6,5 +6,11 @@
     <string name="title_section1">Hosts Switcher</string>
     <string name="title_section2">Custom Hosts File</string>
     <string name="title_section3">Section 3</string>
+    <string name="custom_host_file">Custom Host File</string>
+    <string name="hosts_file_location">Hosts File Location</string>
+    <string name="find">Find</string>
+    <string name="switch1">Switch</string>
+    <string name="switch2">Switch</string>
+    <string name="default_host_file">Default Host File</string>
 
 </resources>

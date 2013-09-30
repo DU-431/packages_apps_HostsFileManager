@@ -18,7 +18,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:text="Custom Host File"
+        android:text="@string/custom_host_file"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <Switch
@@ -28,7 +28,7 @@
         android:layout_alignParentRight="true"
         android:layout_below="@+id/section_label"
         android:layout_marginRight="21dp"
-        android:text="Switch" />
+        android:text="@string/switch1" />
 
     <TextView
         android:id="@+id/textView2"
@@ -37,7 +37,7 @@
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/switch1"
         android:layout_marginTop="58dp"
-        android:text="Hosts File Location"
+        android:text="@string/hosts_file_location"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <Button
@@ -48,6 +48,6 @@
         android:layout_below="@+id/textView2"
         android:layout_marginRight="14dp"
         android:layout_toRightOf="@+id/textView2"
-        android:text="Find" />
+        android:text="@string/find" />
 
 </RelativeLayout>
